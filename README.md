@@ -1,4 +1,4 @@
-## Hey 👋, This is Serhii Romanenko 
+# Hey 👋, This is Serhii Romanenko 
 [![Gmail Badge](https://img.shields.io/badge/-sergromanenko97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergromanenko97@gmail.com)](mailto:sergromanenko97@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-romanenkosergio-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romanenkosergio/)](https://www.linkedin.com/in/romanenkosergio/) [![Github Badge](https://img.shields.io/badge/-romanenkosergio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/romanenkosergio/)](https://www.github.com/romanenkosergio/) [![Twitter Badge](https://img.shields.io/badge/-romanenkosergio-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/romanenkosergio/)](https://www.twitter.com/romanenkosergio/) <p align='left'>
 #### I have 6+ years of IT professional in front-end web development in web-oriented applications for startups, midsize businesses, and large enterprises from various industries. 
@@ -8,7 +8,7 @@
 #### Knowledge in functional programming, service-based fronted development</p>
 ### <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jofTWfpsxCBBWF7sUhDpfxZUTBkM0lXm/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
-## My tech stack
+# My tech stack
 
 ### Markup
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
