@@ -6,8 +6,9 @@
 #### Have a deep understanding of UX/UI design implementation into HTML layout. 
 #### I am experienced in different approaches, front-end engineering principles, and concepts. 
 #### Knowledge in functional programming, service-based fronted development</p>
-### <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jofTWfpsxCBBWF7sUhDpfxZUTBkM0lXm/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jofTWfpsxCBBWF7sUhDpfxZUTBkM0lXm/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
+--- 
 # My tech stack
 
 ### Markup
@@ -72,15 +73,14 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-##  LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/romanenkosergio?theme=dark)](https://leetcode.com/romanenkosergio)
-
-
-## Some of my Github Stats
+---
+# Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=romanenkosergio alt=romanenkosergio/> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=romanenkosergio&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/romanenkosergio/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanenkosergio&layout=compact&theme=dark&hide_border=true)](https://github.com/romanenkosergio/github-readme-stats)
+
+#  LeetCode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/romanenkosergio?theme=dark)](https://leetcode.com/romanenkosergio)
