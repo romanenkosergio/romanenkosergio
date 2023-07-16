@@ -73,6 +73,8 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/romanenkosergio)
 
 ## Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=romanenkosergio alt=romanenkosergio/> </p>
