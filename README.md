@@ -73,12 +73,14 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/romanenkosergio)
+##  LeetCode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/romanenkosergio?theme=dark)](https://leetcode.com/romanenkosergio)
+
 
 ## Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=romanenkosergio alt=romanenkosergio/> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=romanenkosergio&show_icons=true&include_all_commits=true)](https://github.com/romanenkosergio/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=romanenkosergio&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)](https://github.com/romanenkosergio/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanenkosergio&layout=compact)](https://github.com/romanenkosergio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanenkosergio&layout=compact&theme=dark&hide_border=true)](https://github.com/romanenkosergio/github-readme-stats)
