@@ -8,7 +8,6 @@
 #### Knowledge in functional programming, service-based fronted development</p>
 <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1jofTWfpsxCBBWF7sUhDpfxZUTBkM0lXm/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
---- 
 # My tech stack
 
 ### Markup
@@ -73,7 +72,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
----
+
 # Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=romanenkosergio alt=romanenkosergio/> </p>
 
